@@ -36,10 +36,11 @@ I have categorized my tech stack to reflect my specific competencies across diff
   <img src="https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
-**Object-Oriented Programming & DSA**
+**Object-Oriented Programming & Scripting**
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 **Web Development Foundation**
@@ -69,3 +70,5 @@ I have categorized my tech stack to reflect my specific competencies across diff
 <p align="center">
   <i>Let's connect and build something awesome together! 🚀</i>
 </p>
+
+
