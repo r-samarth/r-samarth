@@ -56,18 +56,6 @@ I have categorized my tech stack to reflect my specific competencies across diff
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r-samarth&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8" alt="Samarth's GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-samarth&theme=tokyonight&hide_border=true&title_color=38bdf8" alt="Samarth's GitHub Streak" />
-</div>
-
----
-
-<p align="center">
   <i>Let's connect and build something awesome together! 🚀</i>
 </p>
 
