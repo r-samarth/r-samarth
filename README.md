@@ -141,24 +141,33 @@ mindmap
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
+<!-- GitHub Profile Summary Cards -->
 <a href="https://github.com/r-samarth">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=r-samarth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A29BFE&icon_color=FD79A8&text_color=c9d1d9&ring_color=6C5CE7" alt="Samarth's GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=r-samarth&theme=tokyonight" alt="Samarth's GitHub Stats"/>
 </a>
 <a href="https://github.com/r-samarth">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=r-samarth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A29BFE&text_color=c9d1d9" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-samarth&theme=tokyonight" alt="Top Languages by Repo"/>
+</a>
+
+<!-- Most Used Languages by Commit -->
+<br/><br/>
+<a href="https://github.com/r-samarth">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r-samarth&theme=tokyonight" alt="Top Languages by Commit"/>
+</a>
+<a href="https://github.com/r-samarth">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r-samarth&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+</a>
+
+<!-- Profile Details -->
+<br/><br/>
+<a href="https://github.com/r-samarth">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-samarth&theme=tokyonight" width="95%" alt="Profile Details"/>
 </a>
 
 <!-- GitHub Streak Stats -->
 <br/><br/>
 <a href="https://github.com/r-samarth">
   <img src="https://streak-stats.demolab.com/?user=r-samarth&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=6C5CE7&fire=FD79A8&currStreakLabel=A29BFE&sideLabels=A29BFE&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</a>
-
-<!-- Activity Graph -->
-<br/><br/>
-<a href="https://github.com/r-samarth">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r-samarth&bg_color=0D1117&color=A29BFE&line=6C5CE7&point=FD79A8&area_color=6C5CE7&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
 </a>
 
 </div>
