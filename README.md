@@ -8,17 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A29BFE&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=2nd-Year+CSE+%40+NIE+Mysuru+%F0%9F%8E%93;Building+Full-Stack+%26+AI-Powered+Applications+%F0%9F%94%A5;Open+Source+Enthusiast+%7C+GSoC+2027+Aspirant+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
-<!-- Profile Views & Social Badges -->
-<br/>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=r-samarth&label=Profile%20Views&color=6C5CE7&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/r-samarth?tab=followers">
-    <img src="https://img.shields.io/github/followers/r-samarth?label=Followers&style=for-the-badge&color=A29BFE&labelColor=1a1b27" alt="Followers"/>
-  </a>
-  <a href="https://github.com/r-samarth?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-r--samarth-FD79A8?style=for-the-badge&labelColor=1a1b27" alt="Repos"/>
-  </a>
-</p>
+
 
 <!-- Social Links -->
 <p>
@@ -62,10 +52,6 @@ current_focus:
 goal: "Become a strong AI Software Engineer who builds
        scalable systems with modern AI technologies"
 
-fun_facts:
-  - 🏋️ Gym enthusiast
-  - 🏏 Cricket lover
-  - ♟️ Chess strategist
 ```
 
 <br clear="both"/>
@@ -86,7 +72,7 @@ fun_facts:
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
 </p>
 
-### 🌐 Web Development (MERN Stack)
+### 🌐 Web Development (MERN Stack) — BY THE END OF 2026
 <p>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
@@ -103,7 +89,6 @@ fun_facts:
   <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
 </p>
 
 ### 🧠 AI / ML — Exploring
@@ -143,9 +128,10 @@ mindmap
       Generative AI
       Agentic AI
     CS Fundamentals
-      Data Structures
-      Computer Organization
-      Operating Systems
+      OOPs
+      OS
+      DBMS
+      CN
 ```
 
 <!-- Animated Divider -->
@@ -157,16 +143,16 @@ mindmap
 
 <!-- GitHub Stats Card -->
 <a href="https://github.com/r-samarth">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r-samarth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A29BFE&icon_color=FD79A8&text_color=c9d1d9&ring_color=6C5CE7" alt="Samarth's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=r-samarth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A29BFE&icon_color=FD79A8&text_color=c9d1d9&ring_color=6C5CE7" alt="Samarth's GitHub Stats"/>
 </a>
 <a href="https://github.com/r-samarth">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-samarth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A29BFE&text_color=c9d1d9" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=r-samarth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A29BFE&text_color=c9d1d9" alt="Top Languages"/>
 </a>
 
 <!-- GitHub Streak Stats -->
 <br/><br/>
 <a href="https://github.com/r-samarth">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-samarth&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=6C5CE7&fire=FD79A8&currStreakLabel=A29BFE&sideLabels=A29BFE&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=r-samarth&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=6C5CE7&fire=FD79A8&currStreakLabel=A29BFE&sideLabels=A29BFE&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </a>
 
 <!-- Activity Graph -->
