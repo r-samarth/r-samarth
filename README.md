@@ -104,38 +104,7 @@ goal: "Become a strong AI Software Engineer who builds
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🗺️ **Learning Roadmap**
 
-```mermaid
-mindmap
-  root((Samarth R))
-    Software Engineering
-      Java + OOP
-        DSA
-      MERN Stack
-        React
-        Node.js
-        Express.js
-        MongoDB
-      DevOps
-        Git & GitHub
-        CI/CD
-    AI & Data Science
-      Python
-      Data Analytics
-      Machine Learning
-      Deep Learning
-      Generative AI
-      Agentic AI
-    CS Fundamentals
-      OOPs
-      OS
-      DBMS
-      CN
-```
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 **GitHub Analytics**
 
@@ -184,25 +153,7 @@ mindmap
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎯 **2026–27 Roadmap**
 
-<div align="center">
-
-| 🚩 Goal | 📌 Status |
-|---------|-----------|
-| ✅ Complete MERN learning path | 🔄 In Progress |
-| 🏗️ Build & deploy full-stack projects | 🔄 In Progress |
-| 💪 Strengthen Java & DSA fundamentals | 🔄 In Progress |
-| 🧱 Build solid CS foundations | 🔄 In Progress |
-| 🌍 Start Open Source contributions | 📋 Planned |
-| 🎖️ Prepare for **GSoC 2027** | 📋 Planned |
-| 🤖 ML → DL → GenAI → Agentic AI | 📋 Planned |
-| 📈 Grow as a Software Engineer | ♾️ Always |
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🐍 **Contribution Snake**
 
