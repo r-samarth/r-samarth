@@ -1,198 +1,172 @@
 <div align="center">
 
-<!-- 3D Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:A29BFE,100:FD79A8&height=250&section=header&text=Samarth%20R&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Software%20Engineer%20in%20the%20Making%20🚀&descAlignY=55&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07110D,45:064E3B,100:10B981&height=250&section=header&text=SAMARTH%20R&fontSize=78&fontColor=E6FFF5&fontAlignY=36&desc=AI%20SOFTWARE%20ENGINEER%20%7C%20CSE%20%40%20NIE&descSize=18&descColor=B7F7D8&descAlignY=57&animation=fadeIn" width="100%" alt="Samarth R — AI Software Engineer"/>
 
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A29BFE&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=2nd-Year+CSE+%40+NIE+Mysuru+%F0%9F%8E%93;Building+Full-Stack+%26+AI-Powered+Applications+%F0%9F%94%A5;Open+Source+Enthusiast+%7C+GSoC+2027+Aspirant+%F0%9F%8C%9F" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=760&height=55&lines=Second-year+CSE+student+at+NIE%2C+Mysuru;Java+%7C+Data+Structures+%26+Algorithms+%7C+Full+Stack;Exploring+Machine+Learning%2C+GenAI+%26+Agentic+AI" alt="Typing introduction"/>
 </a>
 
-
-
-<!-- Social Links -->
 <p>
-  <a href="https://samarth-r.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-6C5CE7?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/samarth-r-978162396" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/_samarth_r" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:samarthr.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://samarth-r.dev"><img src="https://img.shields.io/badge/PORTFOLIO-samarth--r.dev-10B981?style=for-the-badge&labelColor=0B1411" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/samarth-r-978162396"><img src="https://img.shields.io/badge/LINKEDIN-Connect-10B981?style=for-the-badge&labelColor=0B1411&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:connect@samarth-r.dev"><img src="https://img.shields.io/badge/EMAIL-Let's%20talk-10B981?style=for-the-badge&labelColor=0B1411&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/r-samarth"><img src="https://img.shields.io/badge/GITHUB-r--samarth-10B981?style=for-the-badge&labelColor=0B1411&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+## 01 / ABOUT
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" src="https://github.com/r-samarth.png" width="150" alt="Samarth's GitHub avatar"/>
 
-```yaml
-name: Samarth R
-located_in: Mysuru, Karnataka, India
-education:
-  university: The National Institute of Engineering
-  degree: B.E. Computer Science & Engineering
-  batch: 2025 - 2029
+Hey! I'm **Samarth**, a second-year Computer Science student at **The National Institute of Engineering, Mysuru**.
 
-current_focus:
-  - Full-Stack Development (MERN)
-  - Data Structures & Algorithms (Java)
-  - Machine Learning & AI
-  - Open Source Contributions
+I'm working toward becoming an **AI Software Engineer** — building a strong foundation in software engineering, problem-solving, backend development, and modern AI.
 
-goal: "Become a strong AI Software Engineer who builds
-       scalable systems with modern AI technologies"
+- 🎓 B.E. Computer Science & Engineering · 2025–2029
+- 🧩 Practising Data Structures & Algorithms in **Java**
+- 🛠️ Building and shipping full-stack and developer-focused projects
+- 🧠 Exploring **Machine Learning, Deep Learning, GenAI, and Agentic AI**
+- 🌱 Interested in open source and preparing for **GSoC 2027**
 
-```
+<br clear="right"/>
 
-<br clear="both"/>
+## 02 / CURRENT FOCUS
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Engineering</h3>
+      <p>Strengthening Java, DSA, problem-solving, APIs, databases, and the fundamentals behind scalable software.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Artificial Intelligence</h3>
+      <p>Building toward ML and deep learning, then moving into LLM applications, RAG, and agentic systems.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Full Stack</h3>
+      <p>Working across frontend, backend, authentication, data persistence, and deployment.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 Open Source</h3>
+      <p>Learning how real projects are structured, reviewed, tested, and improved with a community.</p>
+    </td>
+  </tr>
+</table>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Tech Arsenal**
+## 03 / TECH STACK
+
+<p><b>Languages</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Java-0B1411?style=for-the-badge&logo=openjdk&logoColor=34D399" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-0B1411?style=for-the-badge&logo=c&logoColor=34D399" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-0B1411?style=for-the-badge&logo=python&logoColor=34D399" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-0B1411?style=for-the-badge&logo=javascript&logoColor=34D399" alt="JavaScript"/>
+</p>
+
+<p><b>Web, Backend & Data</b></p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-0B1411?style=for-the-badge&logo=html5&logoColor=34D399" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-0B1411?style=for-the-badge&logo=css3&logoColor=34D399" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/FastAPI-0B1411?style=for-the-badge&logo=fastapi&logoColor=34D399" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/SQLite-0B1411?style=for-the-badge&logo=sqlite&logoColor=34D399" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Firebase-0B1411?style=for-the-badge&logo=firebase&logoColor=34D399" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-0B1411?style=for-the-badge&logo=supabase&logoColor=34D399" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0B1411?style=for-the-badge&logo=swift&logoColor=34D399" alt="SwiftUI"/>
+</p>
+
+<p><b>Tools & Platforms</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Git-0B1411?style=for-the-badge&logo=git&logoColor=34D399" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0B1411?style=for-the-badge&logo=github&logoColor=34D399" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0B1411?style=for-the-badge&logo=visualstudiocode&logoColor=34D399" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Vercel-0B1411?style=for-the-badge&logo=vercel&logoColor=34D399" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Render-0B1411?style=for-the-badge&logo=render&logoColor=34D399" alt="Render"/>
+  <img src="https://img.shields.io/badge/Xcode-0B1411?style=for-the-badge&logo=xcode&logoColor=34D399" alt="Xcode"/>
+</p>
+
+<p><b>Currently learning next</b></p>
+<p>
+  <img src="https://img.shields.io/badge/React-0B1411?style=flat-square&logo=react&logoColor=34D399" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-0B1411?style=flat-square&logo=nodedotjs&logoColor=34D399" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-0B1411?style=flat-square&logo=express&logoColor=34D399" alt="Express"/>
+  <img src="https://img.shields.io/badge/MongoDB-0B1411?style=flat-square&logo=mongodb&logoColor=34D399" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/ML%20%2F%20GenAI-0B1411?style=flat-square&logo= openai&logoColor=34D399" alt="ML and GenAI"/>
+</p>
+
+## 04 / SELECTED WORK
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📁 Filefy</h3>
+      <p>A live web project in my portfolio. Explore the deployed experience and source repository.</p>
+      <a href="https://filefy.samarth-r.dev"><img src="https://img.shields.io/badge/OPEN%20LIVE%20APP-10B981?style=for-the-badge&labelColor=0B1411" alt="Open Filefy"/></a>
+      <a href="https://github.com/r-samarth/filefy"><img src="https://img.shields.io/badge/SOURCE-1F2937?style=for-the-badge&logo=github&logoColor=34D399" alt="Filefy source"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍽️ Campus Bites</h3>
+      <p>A food-ordering application with a FastAPI backend, restaurant and menu APIs, and persistent order management.</p>
+      <a href="https://campus-bites-frontend-fast-apis-fro.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20LIVE%20APP-10B981?style=for-the-badge&labelColor=0B1411" alt="Open Campus Bites"/></a>
+      <a href="https://github.com/r-samarth/Campus-bites-frontend-FAST-APIs-"><img src="https://img.shields.io/badge/SOURCE-1F2937?style=for-the-badge&logo=github&logoColor=34D399" alt="Campus Bites source"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⏱️ Krono</h3>
+      <p>A minimalist task manager for the macOS menu bar and iPhone, built with SwiftUI and Supabase cloud sync.</p>
+      <a href="https://github.com/r-samarth/Krono"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-10B981?style=for-the-badge&labelColor=0B1411" alt="Krono source"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔥 DisciplineForge</h3>
+      <p>A habit and consistency tracker with task streaks, progress metrics, and GitHub-style activity heatmaps.</p>
+      <a href="https://dcf.samarth-r.dev"><img src="https://img.shields.io/badge/OPEN%20LIVE%20APP-10B981?style=for-the-badge&labelColor=0B1411" alt="Open DisciplineForge"/></a>
+      <a href="https://github.com/r-samarth/discipline-forge"><img src="https://img.shields.io/badge/SOURCE-1F2937?style=for-the-badge&logo=github&logoColor=34D399" alt="DisciplineForge source"/></a>
+    </td>
+  </tr>
+</table>
+
+## 05 / CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-### 🔥 Core & OOP Languages
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-</p>
-
-### 🌐 Web Development (MERN Stack) — BY THE END OF 2026
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
-</p>
-
-### 🧠 AI / ML — Exploring
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=r-samarth&bg_color=0D1117&color=34D399&line=10B981&point=6EE7B7&area=true&area_color=064E3B&hide_border=true" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-
-## 📊 **GitHub Analytics**
+## 06 / PROFILE SIGNAL
 
 <div align="center">
 
-<!-- GitHub Profile Summary Cards -->
 <a href="https://github.com/r-samarth">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=r-samarth&theme=tokyonight" alt="Samarth's GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=r-samarth&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=34D399&text_color=C9D1D9&ring_color=10B981" alt="GitHub profile stats"/>
 </a>
 <a href="https://github.com/r-samarth">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-samarth&theme=tokyonight" alt="Top Languages by Repo"/>
-</a>
-
-<!-- Most Used Languages by Commit -->
-<br/><br/>
-<a href="https://github.com/r-samarth">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r-samarth&theme=tokyonight" alt="Top Languages by Commit"/>
-</a>
-<a href="https://github.com/r-samarth">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r-samarth&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</a>
-
-<!-- Profile Details -->
-<br/><br/>
-<a href="https://github.com/r-samarth">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-samarth&theme=tokyonight" width="95%" alt="Profile Details"/>
-</a>
-
-<!-- GitHub Streak Stats -->
-<br/><br/>
-<a href="https://github.com/r-samarth">
-  <img src="https://streak-stats.demolab.com/?user=r-samarth&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=6C5CE7&fire=FD79A8&currStreakLabel=A29BFE&sideLabels=A29BFE&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</a>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=r-samarth&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%"/>
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-
-## 🐍 **Contribution Snake**
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r-samarth/r-samarth/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/r-samarth/r-samarth/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/r-samarth/r-samarth/output/github-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💬 **Random Dev Quote**
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="70%"/>
-</div>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-### 🤝 Let's Connect & Build Together!
-
-<p>
-  <i>I'm always open to collaborating on interesting projects, contributing to open source, and connecting with fellow developers. Let's learn and grow together!</i>
-</p>
-
-<a href="https://samarth-r.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-6C5CE7?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-samarth&layout=compact&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=C9D1D9&langs_count=6" alt="Most used languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:A29BFE,100:FD79A8&height=120&section=footer" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=r-samarth&hide_border=true&background=0D1117&ring=10B981&fire=34D399&currStreakLabel=34D399&sideLabels=9CA3AF&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=6B7280" alt="GitHub contribution streak"/>
+
+</div>
+
+## 07 / LET'S CONNECT
+
+<div align="center">
+
+I'm always happy to connect with developers, collaborate on meaningful projects, and contribute to open source.
+
+<a href="https://samarth-r.dev"><img src="https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&labelColor=0B1411" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/samarth-r-978162396"><img src="https://img.shields.io/badge/LINKEDIN-10B981?style=for-the-badge&labelColor=0B1411&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:connect@samarth-r.dev"><img src="https://img.shields.io/badge/EMAIL-10B981?style=for-the-badge&labelColor=0B1411&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,55:064E3B,100:07110D&height=120&section=footer" width="100%" alt="Emerald footer"/>
 
 </div>
