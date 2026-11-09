@@ -95,7 +95,7 @@ I'm working toward becoming an **AI Software Engineer** — building a strong fo
   <img src="https://img.shields.io/badge/Node.js-0B1411?style=flat-square&logo=nodedotjs&logoColor=34D399" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-0B1411?style=flat-square&logo=express&logoColor=34D399" alt="Express"/>
   <img src="https://img.shields.io/badge/MongoDB-0B1411?style=flat-square&logo=mongodb&logoColor=34D399" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/ML%20%2F%20GenAI-0B1411?style=flat-square&logo= openai&logoColor=34D399" alt="ML and GenAI"/>
+  <img src="https://img.shields.io/badge/ML%20%2F%20GenAI-0B1411?style=flat-square&logo=openai&logoColor=34D399" alt="ML and GenAI"/>
 </p>
 
 ## 04 / SELECTED WORK
