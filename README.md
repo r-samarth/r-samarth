@@ -19,7 +19,7 @@
 
 ## ABOUT
 
-<img align="right" src="https://github.com/r-samarth.png" width="150" alt="Samarth's GitHub avatar"/>
+<img align="right" src="https://i.pinimg.com/736x/e6/76/26/e67626610603b21dcdc11bdbd57e5156.jpg" width="150" alt="Samarth's GitHub avatar"/>
 
 Hey! I'm **Samarth**, a second-year Computer Science student at **The National Institute of Engineering, Mysuru**.
 
