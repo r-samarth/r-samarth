@@ -66,10 +66,13 @@ I'm working toward becoming an **AI Software Engineer** — building a strong fo
 <p>
   <img src="https://img.shields.io/badge/Git-0B1411?style=for-the-badge&logo=git&logoColor=34D399" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-0B1411?style=for-the-badge&logo=github&logoColor=34D399" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0B1411?style=for-the-badge&logo=visualstudiocode&logoColor=34D399" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/cloudflare-0B1411?style=for-the-badge&logo=visualstudiocode&logoColor=34D399" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Vercel-0B1411?style=for-the-badge&logo=vercel&logoColor=34D399" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Render-0B1411?style=for-the-badge&logo=render&logoColor=34D399" alt="Render"/>
- 
+  <img src="https://img.shields.io/badge/OpenAI%20CodeX-0B1411?style=for-the-badge&logo=visualstudiocode&logoColor=34D399" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/claude%20Code-0B1411?style=for-the-badge&logo=visualstudiocode&logoColor=34D399" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Antigravity-0B1411?style=for-the-badge&logo=visualstudiocode&logoColor=34D399" alt="VS Code"/>
+
 </p>
 
 
